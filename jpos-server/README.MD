@@ -1,4 +1,4 @@
-# Here is jPos example repository to run jpos as server or client
+# Here is jPOS example repository to run jpos as server or client
 
 https://github.com/galihlasahido/jpos-example
 
