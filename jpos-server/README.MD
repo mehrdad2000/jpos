@@ -21,3 +21,6 @@ https://github.com/galihlasahido/jpos-example/tree/main/jpos-server
 ```
 java -jar ./target/jpos-server-1.0.jar
 ```
+
+
+FYI: by default listen on port 8888 and config file create in this path deploy/50_token-server.xml
