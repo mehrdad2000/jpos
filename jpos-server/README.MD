@@ -2,7 +2,7 @@
 
 https://github.com/galihlasahido/jpos-example
 
-#server pom to create single jar file
+# server pom to create single jar file
 https://github.com/galihlasahido/jpos-example/tree/main/jpos-server
 
 1-run with mvn
